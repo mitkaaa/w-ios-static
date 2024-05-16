@@ -1,0 +1,21 @@
+:root {
+    --color-menu-point1: #e8ecef;
+    --color-menu-point2: #1879da;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    background: lightgray;
+    padding: 10px 10px 10px 10px;
+    align-items: center;
+}
+
+.link {
+    font-size: xx-large;
+}

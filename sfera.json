@@ -1,0 +1,22 @@
+{
+    "app": "Sfera",
+    "version": "1.0.0",
+    "widgets": [
+        {
+            "url": "Vc.ru",
+            "name": "vc.ru — бизнес, технологии, идеи, модели роста, стартапы"
+        },
+        {
+            "url": "Apple.com",
+            "name": "Apple"
+        },
+        {
+            "url": "Vesti.ru",
+            "name": "Вести.Ru: новости, видео и фото дня"
+        },
+        {
+            "url": "Google.com",
+            "name": "Google"
+        }
+    ]
+}
