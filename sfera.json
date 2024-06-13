@@ -1,22 +1,66 @@
 {
-    "app": "Sfera",
+    "app": "Market",
     "version": "1.0.0",
-    "widgets": [
+    "categories": [
         {
-            "url": "Vc.ru",
-            "name": "vc.ru — бизнес, технологии, идеи, модели роста, стартапы"
+            "name": "Финансы",
+            "items": [   
+                {
+                    "url": "online.sberbank.ru",
+                    "name": "Сбербанк"
+                },
+                {
+                    "url": "alfabank.ru",
+                    "name": "Алфа-Банк"
+                },
+                {
+                    "url": "vtb.ru",
+                    "name": "ВТБ"
+                }
+            ]
         },
         {
-            "url": "Apple.com",
-            "name": "Apple"
+            "name": "Путешествия",
+            "items": [   
+                {
+                    "url": "tutu.ru",
+                    "name": "ТуТу"
+                },
+                {
+                    "url": "ya.ru",
+                    "name": "Яндекс"
+                },
+                {
+                    "url": "aviasales.ru",
+                    "name": "Авиасеилс"
+                }
+            ]
         },
         {
-            "url": "Vesti.ru",
-            "name": "Вести.Ru: новости, видео и фото дня"
+            "name": "Кино",
+            "items": [   
+                {
+                    "url": "kinopoisk.ru",
+                    "name": "Кинопоиск"
+                },
+                {
+                    "url": "okko.tv",
+                    "name": "okko"
+                },
+                {
+                    "url": "ivi.ru",
+                    "name": "ivi"
+                }
+            ]
         },
         {
-            "url": "Google.com",
-            "name": "Google"
+            "name": "Тест",
+            "items": [   
+                {
+                    "url": "Тест.ru",
+                    "name": "Тест"
+                }
+            ]
         }
     ]
 }
