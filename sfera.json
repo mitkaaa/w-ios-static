@@ -3,62 +3,99 @@
     "version": "1.0.0",
     "categories": [
         {
-            "name": "Финансы",
+            "name": "Новости",
             "items": [   
                 {
-                    "url": "online.sberbank.ru",
-                    "name": "Сбербанк"
+                    "url": "news.rambler.ru",
+                    "name": "Рамблер/новости"
                 },
                 {
-                    "url": "alfabank.ru",
-                    "name": "Алфа-Банк"
+                    "url": "rbc.ru",
+                    "name": "РБК"
                 },
                 {
-                    "url": "vtb.ru",
-                    "name": "ВТБ"
+                    "url": "ria.ru",
+                    "name": "РИА"
+                },
+                {
+                    "url": "lenta.ru",
+                    "name": "Лента"
                 }
             ]
         },
         {
-            "name": "Путешествия",
+            "name": "Погода",
             "items": [   
                 {
-                    "url": "tutu.ru",
-                    "name": "ТуТу"
+                    "url": "gismeteo.ru",
+                    "name": "Gismeteo"
                 },
                 {
-                    "url": "ya.ru",
-                    "name": "Яндекс"
-                },
-                {
-                    "url": "aviasales.ru",
-                    "name": "Авиасеилс"
+                    "url": "yandex.ru/pogoda",
+                    "name": "Яндекс Погода"
                 }
             ]
         },
         {
-            "name": "Кино",
+            "name": "Почта",
             "items": [   
                 {
-                    "url": "kinopoisk.ru",
-                    "name": "Кинопоиск"
+                    "url": "mail.ru",
+                    "name": "mail.ru"
                 },
                 {
-                    "url": "okko.tv",
-                    "name": "okko"
-                },
-                {
-                    "url": "ivi.ru",
-                    "name": "ivi"
+                    "url": "mail.rambler.ru",
+                    "name": "Рамблер Почта"
                 }
             ]
         },
         {
-            "name": "Тест",
+            "name": "Соц.сети и сообщества",
             "items": [   
                 {
-                    "url": "Тест.ru",
-                    "name": "Тест"
+                    "url": "ok.ru",
+                    "name": "Одноклассники"
+                },
+                {
+                    "url": "vk.com",
+                    "name": "Вконтакте"
+                },
+                {
+                    "url": "vc.ru",
+                    "name": "VC"
+                },
+                {
+                    "url": "dzen.ru",
+                    "name": "Дзен"
+                }
+            ]
+        },
+        {
+            "name": "Покупки",
+            "items": [   
+                {
+                    "url": "megamarket.ru",
+                    "name": "МегаМаркет"
+                },
+                {
+                    "url": "ozon.ru",
+                    "name": "OZON"
+                },
+                {
+                    "url": "wildberries.ru",
+                    "name": "Wildberries"
+                },
+                {
+                    "url": "lamoda.ru",
+                    "name": "Lamoda"
+                },
+                {
+                    "url": "avito.ru",
+                    "name": "Авито"
+                },
+                {
+                    "url": "market.yandex.ru",
+                    "name": "Яндекс Маркет"
                 }
             ]
         }
