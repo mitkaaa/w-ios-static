@@ -1,101 +1,208 @@
 {
     "app": "Market",
-    "version": "1.0.0",
-    "categories": [
+    "version": "2.0.0",
+    "localizations": [
         {
-            "name": "Новости",
-            "items": [   
+            "language": "ru",
+            "categories": [
                 {
-                    "url": "news.rambler.ru",
-                    "name": "Рамблер/новости"
+                    "name": "Новости",
+                    "items": [   
+                        {
+                            "url": "news.rambler.ru",
+                            "name": "Рамблер/новости"
+                        },
+                        {
+                            "url": "rbc.ru",
+                            "name": "РБК"
+                        },
+                        {
+                            "url": "ria.ru",
+                            "name": "РИА"
+                        },
+                        {
+                            "url": "lenta.ru",
+                            "name": "Лента"
+                        }
+                    ]
                 },
                 {
-                    "url": "rbc.ru",
-                    "name": "РБК"
+                    "name": "Погода",
+                    "items": [   
+                        {
+                            "url": "gismeteo.ru",
+                            "name": "Gismeteo"
+                        },
+                        {
+                            "url": "yandex.ru/pogoda",
+                            "name": "Яндекс Погода"
+                        }
+                    ]
                 },
                 {
-                    "url": "ria.ru",
-                    "name": "РИА"
+                    "name": "Почта",
+                    "items": [   
+                        {
+                            "url": "mail.ru",
+                            "name": "mail.ru"
+                        },
+                        {
+                            "url": "mail.rambler.ru",
+                            "name": "Рамблер Почта"
+                        }
+                    ]
                 },
                 {
-                    "url": "lenta.ru",
-                    "name": "Лента"
+                    "name": "Соц.сети и сообщества",
+                    "items": [   
+                        {
+                            "url": "ok.ru",
+                            "name": "Одноклассники"
+                        },
+                        {
+                            "url": "vk.com",
+                            "name": "Вконтакте"
+                        },
+                        {
+                            "url": "vc.ru",
+                            "name": "VC"
+                        },
+                        {
+                            "url": "dzen.ru",
+                            "name": "Дзен"
+                        }
+                    ]
+                },
+                {
+                    "name": "Покупки",
+                    "items": [   
+                        {
+                            "url": "megamarket.ru",
+                            "name": "МегаМаркет"
+                        },
+                        {
+                            "url": "ozon.ru",
+                            "name": "OZON"
+                        },
+                        {
+                            "url": "wildberries.ru",
+                            "name": "Wildberries"
+                        },
+                        {
+                            "url": "lamoda.ru",
+                            "name": "Lamoda"
+                        },
+                        {
+                            "url": "avito.ru",
+                            "name": "Авито"
+                        },
+                        {
+                            "url": "market.yandex.ru",
+                            "name": "Яндекс Маркет"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "Погода",
-            "items": [   
+            "language": "en",
+            "categories": [
                 {
-                    "url": "gismeteo.ru",
-                    "name": "Gismeteo"
+                    "name": "News",
+                    "items": [   
+                        {
+                            "url": "news.rambler.ru",
+                            "name": "Rambler/news"
+                        },
+                        {
+                            "url": "rbc.ru",
+                            "name": "RBC"
+                        },
+                        {
+                            "url": "ria.ru",
+                            "name": "RIA"
+                        },
+                        {
+                            "url": "lenta.ru",
+                            "name": "Lenta"
+                        }
+                    ]
                 },
                 {
-                    "url": "yandex.ru/pogoda",
-                    "name": "Яндекс Погода"
-                }
-            ]
-        },
-        {
-            "name": "Почта",
-            "items": [   
-                {
-                    "url": "mail.ru",
-                    "name": "mail.ru"
+                    "name": "Weather",
+                    "items": [   
+                        {
+                            "url": "gismeteo.ru",
+                            "name": "Gismeteo"
+                        },
+                        {
+                            "url": "yandex.ru/pogoda",
+                            "name": "Yandex Weather"
+                        }
+                    ]
                 },
                 {
-                    "url": "mail.rambler.ru",
-                    "name": "Рамблер Почта"
-                }
-            ]
-        },
-        {
-            "name": "Соц.сети и сообщества",
-            "items": [   
-                {
-                    "url": "ok.ru",
-                    "name": "Одноклассники"
+                    "name": "Mail",
+                    "items": [   
+                        {
+                            "url": "mail.ru",
+                            "name": "mail.ru"
+                        },
+                        {
+                            "url": "mail.rambler.ru",
+                            "name": "Rambler Mail"
+                        }
+                    ]
                 },
                 {
-                    "url": "vk.com",
-                    "name": "Вконтакте"
+                    "name": "Social networks and communities",
+                    "items": [   
+                        {
+                            "url": "ok.ru",
+                            "name": "Classmates"
+                        },
+                        {
+                            "url": "vk.com",
+                            "name": "VKontakte"
+                        },
+                        {
+                            "url": "vc.ru",
+                            "name": "VC"
+                        },
+                        {
+                            "url": "dzen.ru",
+                            "name": "Dzen"
+                        }
+                    ]
                 },
                 {
-                    "url": "vc.ru",
-                    "name": "VC"
-                },
-                {
-                    "url": "dzen.ru",
-                    "name": "Дзен"
-                }
-            ]
-        },
-        {
-            "name": "Покупки",
-            "items": [   
-                {
-                    "url": "megamarket.ru",
-                    "name": "МегаМаркет"
-                },
-                {
-                    "url": "ozon.ru",
-                    "name": "OZON"
-                },
-                {
-                    "url": "wildberries.ru",
-                    "name": "Wildberries"
-                },
-                {
-                    "url": "lamoda.ru",
-                    "name": "Lamoda"
-                },
-                {
-                    "url": "avito.ru",
-                    "name": "Авито"
-                },
-                {
-                    "url": "market.yandex.ru",
-                    "name": "Яндекс Маркет"
+                    "name": "Purchase",
+                    "items": [   
+                        {
+                            "url": "megamarket.ru",
+                            "name": "MegaMarket"
+                        },
+                        {
+                            "url": "ozon.ru",
+                            "name": "OZON"
+                        },
+                        {
+                            "url": "wildberries.ru",
+                            "name": "Wildberries"
+                        },
+                        {
+                            "url": "lamoda.ru",
+                            "name": "Lamoda"
+                        },
+                        {
+                            "url": "avito.ru",
+                            "name": "Avito"
+                        },
+                        {
+                            "url": "market.yandex.ru",
+                            "name": "Yandex Market"
+                        }
+                    ]
                 }
             ]
         }
