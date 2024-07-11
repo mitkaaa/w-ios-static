@@ -101,6 +101,19 @@
                             "name": "Яндекс Маркет"
                         }
                     ]
+                },
+                {
+                    "name": "Первый запуск",
+                    "items": [   
+                        {
+                            "url": "rbc.ru",
+                            "name": "РБК"
+                        },
+                        {
+                            "url": "gismeteo.ru",
+                            "name": "Gismeteo"
+                        }
+                    ]
                 }
             ]
         },
@@ -201,6 +214,19 @@
                         {
                             "url": "market.yandex.ru",
                             "name": "Yandex Market"
+                        }
+                    ]
+                },
+                {
+                    "name": "First start",
+                    "items": [   
+                        {
+                            "url": "rbc.ru",
+                            "name": "RBC"
+                        },
+                        {
+                            "url": "gismeteo.ru",
+                            "name": "Gismeteo"
                         }
                     ]
                 }
